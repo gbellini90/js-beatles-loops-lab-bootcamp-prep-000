@@ -11,3 +11,7 @@ function johnLennonFacts(facts){
   {jLFacts.push(`${facts[i]}!!!`)}
     return jLFacts
 }
+
+function iLoveTheBealtes(number){
+  
+}
